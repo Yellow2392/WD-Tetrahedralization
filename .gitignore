@@ -1,0 +1,22 @@
+# Ignorar la carpeta build generada
+/build/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.o
+*.obj
+*.exe
+*.dll
+*.log
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos de dependencias (si aplica)
+node_modules/
+dist/
