@@ -25,3 +25,5 @@ target_link_libraries(viewer
     GLEW::GLEW 
     glfw
 )
+
+file(COPY ${CMAKE_SOURCE_DIR}/models DESTINATION ${CMAKE_BINARY_DIR})
