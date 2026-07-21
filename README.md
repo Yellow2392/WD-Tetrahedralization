@@ -373,3 +373,8 @@ cd build
 make -j4
 ./viewer
 ```
+
+<figure>
+ <img src="images/visualizador1.png" alt="Visualizer image">
+ <figcaption>GUI for the project.</figcaption>
+</figure>
